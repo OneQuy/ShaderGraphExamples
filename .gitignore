@@ -15,3 +15,6 @@ Desktop.ini
 # Unity
 /Library
 /Temp
+.vs/KeijiroShaderGraphExamples/v16/.suo
+Logs/Packages-Update.log
+obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
